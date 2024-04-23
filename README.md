@@ -4,7 +4,7 @@
 - currently working as a **laboratory technician intern** @ **pasadena bio collaborative incubator**
 - graduated with a B.S. in **biochemistry** from **ucla**
 - former **research assistant** for the **matteo pellegrini lab** @ ucla
-- check out my [linkedin](https://www.linkedin.com/in/jguevara)!
+- check out my [linkedin](https://www.linkedin.com/in/jguevara) or my [personal website](https://www.saltyjared.me)!
 
 thanks for viewing!
 
