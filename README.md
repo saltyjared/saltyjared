@@ -1,7 +1,7 @@
 ### hello! welcome to my github 😎
 
-- i am a current **first-year** master's student @ **uc berkeley's MSSE** program
-- currently working as a **laboratory technician intern** @ **pasadena bio collaborative incubator**
+- i am a current **second-year** master's student @ **uc berkeley's MSSE** program
+- currently working as a **laboratory technician** @ **intuitive biotechnologies**
 - graduated with a B.S. in **biochemistry** from **ucla**
 - former **research assistant** for the **matteo pellegrini lab** @ ucla
 - check out my [linkedin](https://www.linkedin.com/in/jguevara) or my [personal website](https://www.saltyjared.me)!
