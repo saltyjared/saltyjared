@@ -1,9 +1,9 @@
 ### hello! welcome to my github 😎
 
-- i am a current **second-year** master's student @ **uc berkeley's MSSE** program
-- currently working as a **laboratory technician** @ **intuitive biotechnologies**
-- graduated with a B.S. in **biochemistry** from **ucla**
-- former **research assistant** for the **matteo pellegrini lab** @ ucla
+- I am a 2nd-year master's student @ **UC Berkeley's MSSE** program
+- currently: **Data Science Intern** @ **The Sunwater Institute**
+- incoming: **Software Development Engineering Intern** @ **Amazon**
+- formerly: **Undergraduate Research Assistant** @ **Pellegrini Lab (UCLA)**
 - check out my [linkedin](https://www.linkedin.com/in/jguevara) or my [personal website](https://www.saltyjared.me)!
 
 thanks for viewing!
