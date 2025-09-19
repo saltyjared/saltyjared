@@ -1,9 +1,7 @@
 ### hello! welcome to my github 😎
 
-- I am a 2nd-year master's student @ **UC Berkeley's MSSE** program
-- currently: **Data Science Intern** @ **The Sunwater Institute**
-- incoming: **Software Development Engineering Intern** @ **Amazon**
-- formerly: **Undergraduate Research Assistant** @ **Pellegrini Lab (UCLA)**
+- I am a 3rd-year master's student @ **UC Berkeley's MSSE** program
+- formerly: [**Software Development Engineering Intern** @ **Amazon**, **Laboratory Technician** @ **Intuitive BioTechnologies**, **Undergraduate Research Assistant** @ **Pellegrini Lab (UCLA)**]
 - check out my [linkedin](https://www.linkedin.com/in/jguevara) or my [personal website](https://www.saltyjared.me)!
 
 thanks for viewing!
